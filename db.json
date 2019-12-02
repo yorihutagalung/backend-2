@@ -1,0 +1,39 @@
+{
+    "vegetables" : [
+        {
+            "id" : 1,
+            "name" : "Broccoli",
+            "image" : "broccoli.png"
+        },
+        {
+            "id" : 2,
+            "name" : "Potato",
+            "image" : "potato.png"
+        },
+        {
+            "id" : 3,
+            "name" : "Chili",
+            "image" : "chili.png"
+        },
+        {
+            "id" : 4,
+            "name" : "Cucumber",
+            "image" : "cucumber.png"
+        },
+        {
+            "id" : 5,
+            "name" : "Eggplant",
+            "image" : "eggplant.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Onion",
+            "image" : "onion.png"
+        },
+        {
+            "id" : 7,
+            "name" : "Tomato",
+            "image" : "tomato.png"
+        }
+    ]
+}
