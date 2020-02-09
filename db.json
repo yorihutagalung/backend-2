@@ -18,7 +18,9 @@
       "next_of_kin_address":"Block I2 Victoria Garden Estate, Jahi, Abuja",
       "bank_details":"123869888 - GUARANTY TRUST BANK",
       "email_alerts":true,
-      "sms_alerts":true
+      "sms_alerts":true,
+      "avatar" : "https://www.wowkeren.com/images/photo/morgan_freeman.jpg",
+      "motto" : "I'm Blessed"
    },
    "saving-history" : [
      {"date":"2019-09-07","amount":"1275.95","naration":"Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."},
